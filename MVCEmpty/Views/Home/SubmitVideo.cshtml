@@ -1,0 +1,25 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>SubmitVideo</title>
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body>
+<div class="container">
+    hello @Session["name"]!<br />
+        @ViewBag.status
+    <h2>Submit a Video</h2>
+
+    <form action="" method="post" class=".form-groups">
+        <div class="form-group">
+            <label for="url" >Video Url</label>
+            <input type="text" id="url" name="url" class="form-control" />
+        </div>
+    
+        <input type="submit" class="btn" id="btnCreateTicket" value="Insert Video" />
+    </form>
+</div>
+</body>
+</html>

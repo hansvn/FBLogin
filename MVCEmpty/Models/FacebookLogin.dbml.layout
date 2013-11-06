@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="FacebookLogin">
+  <DataContextMoniker Name="/FacebookLoginDataContext" />
+  <nestedChildShapes>
+    <classShape Id="14608217-c468-40f9-8c55-ead2d0a96d9c" absoluteBounds="0.75, 0.75, 2, 1.3862939453125">
+      <DataClassMoniker Name="/FacebookLoginDataContext/User" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a8156ec0-8bc4-4dec-b669-58f4fdcaa1c1" absoluteBounds="0.765, 1.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="253f1b64-43f8-4492-a4bc-ff81c0dd40fb" absoluteBounds="3.75, 0.75, 2, 1.3862939453125">
+      <DataClassMoniker Name="/FacebookLoginDataContext/Video" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7d6954a4-e419-40ee-9b96-5c08a17bf9dc" absoluteBounds="3.765, 1.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
